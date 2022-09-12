@@ -1,0 +1,9 @@
+.react-multiple-carousel__arrow {
+  background-color: rgb(136, 31, 48);
+  opacity: 0.9;
+}
+
+.react-multiple-carousel__arrow:hover {
+  background-color: rgb(96, 88, 201);
+  opacity: 0.8;
+}
